@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Danah 👋</h1>
 <h3 align="center">Information Technology | Cybersecurity Track</h3>
 <p align="center">
-  <img src="https://tenor.com/rvSgkxiFvfE.gif" width="220"/>
+  <img src="https://media.tenor.com/rvSgkixIfvE.gif" width="300" />
 </p>
 ---
 
