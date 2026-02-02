@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Danah 👋</h1>
+<h3 align="center">Information Technology | Cybersecurity Track</h3>
 
-<!--
-**Danah-99/Danah-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 IT student at Saudi Electronic University (SEU)
+- 🔐 Interested in Cybersecurity & Technology
+- 🌱 Currently learning Java & programming fundamentals
+- 🚀 Motivated to grow and build real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Skills
+- 💻 Languages: Java (Basics)
+- 🧠 Concepts: OOP, Problem Solving
+- 🔧 Tools: GitHub, VS Code, IntelliJ
+
+---
+
+### 📈 GitHub Stats
+![Danah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danah-99&show_icons=true&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect
+- 💼 LinkedIn: (https://www.linkedin.com/in/danah-alanazi-6b72583a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- ✉️ GitHub: [Danah-99](https://github.com/Danah-99)
